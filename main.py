@@ -59,7 +59,7 @@ def story5():
 def story6():
     return '''
     <h2>Ага, поверил. Ну и бредятина.</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/ru/4/4d/Shrek_%28character%29.png" alt="Шрек" width="300">
+    <img src="https://upload.wikimedia.org/wikipedia/ru/4/4d/Shrek_%28character%29.png" alt="Шрек" width="300" height="450">
     <a href="/">На главную</a>
     '''
 
